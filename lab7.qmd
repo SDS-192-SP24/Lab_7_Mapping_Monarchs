@@ -282,7 +282,7 @@ I ran the location by city, and it took 8 minutes. You should be able to load in
 #save(butterfly_location_data_8min, file = "butterfly_location_data_8min.Rdata")
 
 # Make sure butterfly_location_data_8min shows in the environment after loading.  
-load("butterfly_location_data_8min.Rdata")
+load("eight_minute_data.Rdata")
 ```
 
 Make a map of mexico.
